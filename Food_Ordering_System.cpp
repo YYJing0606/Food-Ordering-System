@@ -1,10 +1,3 @@
-/*
-Name :		Yeo Yong Jing
-Id :		2206072
-Program :	SE
-Compiler:	VS
-=====================================
-*/
 #include <iostream>
 #include <iomanip>
 #include <ctime>
